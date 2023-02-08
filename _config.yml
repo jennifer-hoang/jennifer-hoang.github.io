@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jennifer Hoang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I'm Jennifer."
+  bio              : # ""
   location         : "Vancouver, Canada"
   email            :
   links:
@@ -296,7 +296,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
 
 
@@ -306,4 +306,4 @@ collections:
     output: true
     permalink: /:collection/:path/
     order:
-      - test-project-1.md
+      - HUT_dashboard.md
