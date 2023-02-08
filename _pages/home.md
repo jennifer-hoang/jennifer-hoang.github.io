@@ -1,7 +1,7 @@
 ---
 title:  "About"
 layout: single
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
@@ -36,13 +36,6 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/jennifer-hoang/) if y
 - **Tools**: Git, Docker, Google Cloud (Looker, BigQuery), Jupyter
 
 
-### Interests
-- Data Visualization 📊
-- Statistical Analysis 👩🏻‍💻
-- Data and Science Communication 💬
-- Biotechnology 🔬
-
-
 ### Hobbies
-- Music: 🎹, 🎻, and learning 🎸!
+- Music: 🎹, learning 🎸
 - Running 🏃🏻‍♀️
